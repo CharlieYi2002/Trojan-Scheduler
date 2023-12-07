@@ -1,0 +1,16 @@
+{
+  "classes": {
+    "ECON457": {
+      "time": "MW 12-1:20",
+      "professor": "Steven Sapra"
+    },
+    "ECON452": {
+      "time": "TTH 2-3:20",
+      "professor": "Mark Moore"
+    },
+    "DSCI351": {
+      "time": "MW 10-11:50",
+      "professor": "Wensheng Wu"
+    }
+  }
+}
