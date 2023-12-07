@@ -4,8 +4,11 @@ Final project for USC course DSCI 351: Foundations of Data Management
 Collaborators: Peter Liu, Porter Moody, Charlie Yi
 
 Neo4j database designed by Peter Liu
+
 DynamoDB database designed by Porter Moody
+
 Front-end designed by Charlie Yi
+
 
 USC course scheduling is a complex task, with students facing a multitude of choices and constraints. They must navigate a large selection of courses, each with its own prerequisites, schedules, and availability, while adhering to major requirements and graduation timelines. This challenge is magnified by expanding course catalogs and intricate course dependencies, making manual scheduling difficult and often leading to conflicts and unmet academic goals.
 
